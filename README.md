@@ -7,12 +7,12 @@ Image Repository is working like Instagram. It can post a photo with title and t
 ### Browse
 ![image](https://user-images.githubusercontent.com/56165279/117686352-c7c04c80-b184-11eb-8826-c21986af3471.png)
   
-2. Main page of the image repository. You can always return to the main page of the app with this button.
-2. You can upload a new post
-2. The button lets you fold the current post. then it only shows the title
-2. you can edit the current post.
-2. you can delete the current post. 
-2. you can unfold the post.
+1. Main page of the image repository. You can always return to the main page of the app with this button.
+1. You can upload a new post
+1. The button lets you fold the current post. then it only shows the title
+1. you can edit the current post.
+1. you can delete the current post. 
+1. you can unfold the post.
 
 ### New Post
 New Post 에 동그라미 그려진거 1개 
