@@ -15,12 +15,18 @@ Image Repository is working like Instagram. It can post a photo with title and t
 1. you can unfold the post.
 
 ### New Post
-New Post 에 동그라미 그려진거 1개 
-글쓰는거 + Save Post 에 동그라미 그려진거 1개
+![image](https://user-images.githubusercontent.com/56165279/117688252-99dc0780-b186-11eb-8721-6565f0ef99de.png)
+
+1. You need to fill the title
+1. You can pick a photo from your Windows file explorer or MacOS finder. Once the photo is uploaded, it shows the preview of the image.
+1. You can add any words for the photo
+1. If you click the "Save Post" button, the page returns to the main page.
 
 ### Edit existing post
 Edit 에 동그라미 1개 
 업데이트 된거 사진 (Before/After)
+
+
 
 ### Delete existing post
 Delete에 동그라미 1개
