@@ -23,10 +23,12 @@ Image Repository is working like Instagram. It can post a photo with title and t
 1. If you click the "Save Post" button, the page returns to the main page.
 
 ### Edit existing post
-Edit 에 동그라미 1개 
-업데이트 된거 사진 (Before/After)
 
+![image](https://user-images.githubusercontent.com/56165279/117689845-2affae00-b188-11eb-84d8-9794b4bb7cb9.png)
 
+1. You can edit the post by choosing the EDIT button.
+2. All the title and content is prefilled in the edit menu. You can change the photo with the "Pick Image" button.
+3. Once the edit is finished, you can choose the "Save Post" button to finalize the edit. Once you click the button, the page returns to the main page.
 
 ### Delete existing post
 Delete에 동그라미 1개
