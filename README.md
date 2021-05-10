@@ -5,7 +5,7 @@ Image Repository is working like Instagram. It can post a photo with title and t
 ## How to use
 
 ### Browse
-아래로 화살표 된거 누르는거 
+![image](https://user-images.githubusercontent.com/56165279/117686352-c7c04c80-b184-11eb-8826-c21986af3471.png)
 
 ### New Post
 New Post 에 동그라미 그려진거 1개 
@@ -26,4 +26,4 @@ Delete에 동그라미 1개
 1. NodeJS
 
 ## Infrastructure Diagram
-<img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200"> 
+![image](https://user-images.githubusercontent.com/56165279/117686392-d1e24b00-b184-11eb-8bf6-f4e6b382a2bd.png)
