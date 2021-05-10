@@ -1,27 +1,47 @@
-# Mean
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+## Overview 
+Image Repository is working like Instagram. It can post a photo with title and text content. After the post, the user can edit the post or delete it. 
 
-## Development server
+## How to use
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Browse
+![image](https://user-images.githubusercontent.com/56165279/117686352-c7c04c80-b184-11eb-8826-c21986af3471.png)
+  
+1. Main page of the image repository. You can always return to the main page of the app with this button.
+1. You can upload a new post
+1. The button lets you fold the current post. then it only shows the title
+1. you can edit the current post.
+1. you can delete the current post. 
+1. you can unfold the post.
 
-## Code scaffolding
+### New Post
+![image](https://user-images.githubusercontent.com/56165279/117688252-99dc0780-b186-11eb-8721-6565f0ef99de.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. You need to fill the title
+1. You can pick a photo from your Windows file explorer or MacOS finder. Once the photo is uploaded, it shows the preview of the image.
+1. You can add any words for the photo
+1. If you click the "Save Post" button, the page returns to the main page.
 
-## Build
+### Edit existing post
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+![image](https://user-images.githubusercontent.com/56165279/117689845-2affae00-b188-11eb-84d8-9794b4bb7cb9.png)
 
-## Running unit tests
+1. You can edit the post by choosing the EDIT button.
+2. All the title and content is prefilled in the edit menu. You can change the photo with the "Pick Image" button.
+3. Once the edit is finished, you can choose the "Save Post" button to finalize the edit. Once you click the button, the page returns to the main page.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Delete existing post
 
-## Running end-to-end tests
+![image](https://user-images.githubusercontent.com/56165279/117690854-4a4b0b00-b189-11eb-9d59-d8a7fdf3eb11.png)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+1. Once you click the "DELETE" button, it instantly deleted, and the next post becomes the first post 
 
-## Further help
+## Development Environment
+1. Mongo DB
+1. Express
+1. Angular
+1. NodeJS
+1. Other libraries: nodemon, body-parser, mongoose, multer
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Infrastructure Diagram
+![image](https://user-images.githubusercontent.com/56165279/117686392-d1e24b00-b184-11eb-8bf6-f4e6b382a2bd.png)
