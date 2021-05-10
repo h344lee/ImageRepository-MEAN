@@ -31,8 +31,10 @@ Image Repository is working like Instagram. It can post a photo with title and t
 3. Once the edit is finished, you can choose the "Save Post" button to finalize the edit. Once you click the button, the page returns to the main page.
 
 ### Delete existing post
-Delete에 동그라미 1개
-업데이트 된거 사진 (Before/After)
+
+![image](https://user-images.githubusercontent.com/56165279/117690854-4a4b0b00-b189-11eb-9d59-d8a7fdf3eb11.png)
+
+1. Once you click the "DELETE" button, it instantly deleted, and the next post becomes the first post 
 
 ## Development Environment
 1. Mongo DB
