@@ -24,6 +24,7 @@ Delete에 동그라미 1개
 1. Express
 1. Angular
 1. NodeJS
+1. Other libraries: nodemon, body-parser, mongoose, multer
 
 ## Infrastructure Diagram
 ![image](https://user-images.githubusercontent.com/56165279/117686392-d1e24b00-b184-11eb-8bf6-f4e6b382a2bd.png)
