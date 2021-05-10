@@ -1,27 +1,29 @@
-# Mean
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.12.
+##Overview 
+Image Repository is working like Instagram. It can post a photo with title and text content. After the post, the user can edit the post or delete it. 
 
-## Development server
+##How to use
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+###Browse
+아래로 화살표 된거 누르는거 
 
-## Code scaffolding
+###New Post
+New Post 에 동그라미 그려진거 1개 
+글쓰는거 + Save Post 에 동그라미 그려진거 1개
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+###Edit existing post
+Edit 에 동그라미 1개 
+업데이트 된거 사진 (Before/After)
 
-## Build
+###Delete existing post
+Delete에 동그라미 1개
+업데이트 된거 사진 (Before/After)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Development Environment
+1. Mongo DB
+1. Express
+1. Angular
+1. NodeJS
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+##Infrastructure Diagram
+<img src="https://theorydb.github.io/assets/img/think/2019-06-25-think-future-ai-1.png" width="300" height="200"> 
