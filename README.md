@@ -1,6 +1,19 @@
 
-## Overview 
-Image Repository is working like Instagram. It can post a photo with title and text content. After the post, the user can edit the post or delete it. 
+## Supported Features 
++ Upload new image
+- title
+- image preview
+- text content
++ Edit uploaded image
+- reload existing content and image
++ Delete uploaded image
+- delete and re-route to main page
++ User login
+- id validation
+- password hasing
+- JSON web token
++ User logout
+- logout and re-route to main page
 
 ## How to use
 
