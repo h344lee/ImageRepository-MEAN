@@ -1,16 +1,19 @@
+## Infrastructure Diagram
+![image](https://user-images.githubusercontent.com/56165279/117686392-d1e24b00-b184-11eb-8bf6-f4e6b382a2bd.png)
 
 ## Supported Features 
-
 + Upload new image
   - title
   - image preview
   - text content
-+ Edit uploaded image
-  - reload existing content and image
-+ Delete uploaded image
++ Edit existing image
+  - reload existing content and image for editing
+  - user authentication 
++ Delete image
   - delete and re-route to main page
+  - user authentication 
 + User login
-  - id validation
+  - ID validation
   - password hasing
   - JSON web token
 + User logout
@@ -57,5 +60,3 @@
 1. NodeJS
 1. Other libraries: nodemon, body-parser, mongoose, multer
 
-## Infrastructure Diagram
-![image](https://user-images.githubusercontent.com/56165279/117686392-d1e24b00-b184-11eb-8bf6-f4e6b382a2bd.png)
