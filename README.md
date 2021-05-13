@@ -1,19 +1,20 @@
 
 ## Supported Features 
+
 + Upload new image
-- title
-- image preview
-- text content
+  - title
+  - image preview
+  - text content
 + Edit uploaded image
-- reload existing content and image
+  - reload existing content and image
 + Delete uploaded image
-- delete and re-route to main page
+  - delete and re-route to main page
 + User login
-- id validation
-- password hasing
-- JSON web token
+  - id validation
+  - password hasing
+  - JSON web token
 + User logout
-- logout and re-route to main page
+  - logout and re-route to main page
 
 ## How to use
 
