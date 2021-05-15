@@ -19,6 +19,17 @@
 + User logout
   - logout and re-route to main page
 
+## How to Start 
+
++ Angular
+/user_folder/ng serve
+
++ Node.js
+/user_folder/npm run start:server
+
++ Web Browser
+http://localhost:4200/
+
 ## How to use
 
 ### Browse
